@@ -1,0 +1,33 @@
+body{
+    background-color: bisque;
+    font-family: sans-serif; 
+    text-align: center;
+
+}
+h1 {
+    color:crimson;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 40px;
+ }
+
+.headermain{
+    font-size: 25px;
+    display: inline-block;
+    padding:auto;
+  
+    
+
+}
+.fs-30px{
+    font-size: 30px;
+    color:tomato
+
+}
+#footer{
+    margin: 20%;
+
+}
+
+
+
